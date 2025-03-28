@@ -13,4 +13,4 @@ Han X, Pan M, Ge H, et al. Multilabel Video Classification Model of Navigation M
 ## Communication
 
 - panmingyang@dlmu.edu.cn
-- cn.xuhan@139.com
+- xuhan199606@163.com
